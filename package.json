@@ -1,0 +1,13 @@
+{
+  "name": "radio-chat-equipe-som",
+  "version": "1.0.0",
+  "description": "Rádio online + chat em tempo real para a equipe de som",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
